@@ -15,3 +15,11 @@
 ```
 ~/mongodb/bin/mongo
 ```
+
+
+### Dependencies
+
+```
+sudo -h easyinstall pip
+pip install pymongo
+```
